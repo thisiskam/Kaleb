@@ -11,13 +11,13 @@ export default function Nav() {
                 <div className="collapse navbar-collapse" id="navbarNavDropdown">
                     <ul className="navbar-nav w-100">
                         <li className="nav-item">
-                            <Link className="nav-link text-center btn fs-5 text-hover-underline" to='/portfolio'>Portfolio</Link>
+                            <Link className="nav-link text-center btn fs-4 text-hover-white" to='/portfolio'>Portfolio</Link>
                         </li>
                         <li className="nav-item">
-                            <Link className="nav-link text-center btn fs-5 text-hover-underline" to='blog'>Blog</Link>
+                            <Link className="nav-link text-center btn fs-4 text-hover-white" to='blog'>Blog</Link>
                         </li>
                         <li className="nav-item">
-                            <Link className="nav-link text-center btn fs-5 text-hover-underline" to='estimates'>Estimate</Link>
+                            <Link className="nav-link text-center btn fs-4 text-hover-white" to='estimates'>Estimate</Link>
                         </li>
                     </ul>
                 </div>
